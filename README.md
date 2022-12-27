@@ -1,5 +1,5 @@
 # Banker-Roulette
-Lets see who's giving the treat today.
+#Lets see who's giving the treat today.
 import random
 
 # Split string method
